@@ -2,7 +2,7 @@
 
 # How to use
 It is recommended to copy the script to `C:\Windows\system32` for easy access.
-The syntax is: `taskreset <process name>
+The syntax is: `taskreset <process name>`
 ## Example
 This command will restart the process `dwm.exe`.
 ```batchfile
